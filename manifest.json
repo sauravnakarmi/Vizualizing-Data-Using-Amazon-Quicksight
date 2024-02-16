@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://spotify-quicksight-dataset/playlist_2000to2022.csv"
+               "s3://S3_BUCKET_NAME/FILE_NAME"
            ]
        }
    ],
