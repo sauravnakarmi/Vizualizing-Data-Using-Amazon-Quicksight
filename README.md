@@ -4,4 +4,4 @@ The goal of this project was to familiarize myself with Amazon Quicksight. Amazo
 ## Steps 
 
 # Step 1: Finding Data
-I used Kraggle to find the dataset that I would eventually use for this project. I needed a dataset that showed the duration of songs and also the year that they got popular. 
+I used Kraggle to find the dataset that I would eventually use for this project. I needed a dataset that showed the duration of songs and also the year that they got popular. [link](https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022)
